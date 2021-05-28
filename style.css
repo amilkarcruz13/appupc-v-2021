@@ -1,0 +1,8 @@
+body {
+    background-color: #ddd;
+}
+.container{
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 1px 1px 4px rgba(0,0,0,0.4);
+}
